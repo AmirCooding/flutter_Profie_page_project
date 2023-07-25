@@ -1,0 +1,15 @@
+{
+  "profileTitle": "Curriculum Vitae",
+  "name": "Amir Mehdi Lotfi",
+  "job": "Web Application Developer",
+  "location": "Bremen,Germany",
+  "summary": "A developer is an individual that builds and create software and applications. He or she writes, debugs and executes the source code of a software application.",
+  "selectedlanguage": "selected Language",
+  "enLanguage": "english",
+  "faLanguage": "persich",
+  "skills": "Skills",
+  "personalInformation": "personal information",
+  "email": "E-Mail",
+  "password": "password",
+  "save": "save"
+}
